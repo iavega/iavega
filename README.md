@@ -8,7 +8,7 @@
 
 ## Sobre mí
 
-Soy un desarrollador Senior con8 años de experiencia, apasionado por crear soluciones innovadoras y eficientes. Mi enfoque principal es Web, y disfruto explorando nuevas tecnologías y desafíos.
+Soy un desarrollador Senior con 8 años de experiencia, apasionado por crear soluciones innovadoras y eficientes. Mi enfoque principal es Web, y disfruto explorando nuevas tecnologías y desafíos.
 
 ## Habilidades
 
